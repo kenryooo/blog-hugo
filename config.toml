@@ -9,7 +9,7 @@ publishdir          = "public"
 author              = "kenryooo"
 title               = "kenryooo.net blog"
 pygmentsuseclasses  = true
-disqusshortname     = "kenryooo-pages.disqus.com" # Comment out to disable Disqus.
+disqusshortname     = "kenryooo-pages" # Comment out to disable Disqus.
 pluralizelisttitles = false
 googleAnalytics     = "UA-89732412-1"
 
