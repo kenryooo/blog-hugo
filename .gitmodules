@@ -1,0 +1,5 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:kenryooo/kenryooo.github.io.git
+	branch = master
+	ignore = dirty
