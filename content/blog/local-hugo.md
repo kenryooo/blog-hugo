@@ -19,7 +19,7 @@ $ brew install hugo
 Go 環境が設定済みなら下記でもいい
 
 ```bash
-$ go get install hugo
+$ go get github.com/spf13/hugo
 ``` 
 
 ### プロジェクト作成  
